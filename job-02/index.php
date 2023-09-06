@@ -1,4 +1,5 @@
 <?php
+
 function my_str_reverse(string $string): string{
     $reversed = '';
     $index = 0;
